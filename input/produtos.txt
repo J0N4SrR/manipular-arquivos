@@ -1,0 +1,25 @@
+Teclado Gamer,199.90,15
+Mouse Sem Fio,89.99,30
+Monitor 24",799.00,10
+Notebook i5,2999.00,5
+HD Externo 1TB,349.50,20
+Pen Drive 64GB,59.90,40
+Smartphone Android,1499.99,8
+Cadeira Gamer,899.00,12
+Impressora Multifuncional,499.00,7
+Webcam Full HD,229.00,18
+Microfone USB,329.90,10
+Fone Bluetooth,189.90,25
+Tablet 10",999.00,6
+Caixa de Som Bluetooth,149.99,22
+Hub USB 4 portas,79.90,35
+Carregador Portátil 10000mAh,129.00,27
+Controle Xbox,399.00,9
+SSD 512GB,429.90,14
+Placa de Vídeo RTX 3060,2399.99,4
+Processador Ryzen 5,1199.90,6
+Memória RAM 16GB,479.90,13
+Fonte 600W,299.00,11
+Gabinete Gamer,349.00,8
+Cooler para CPU,99.90,19
+Switch de Rede 8 portas,159.00,16
