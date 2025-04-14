@@ -10,6 +10,6 @@ Este programa em Java lê um arquivo `.csv` contendo dados de itens vendidos. Ca
 
 Os dados devem estar separados por vírgula.
 
-### Exemplo de entrada (`input.csv`):
+
 
 
